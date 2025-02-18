@@ -3,9 +3,9 @@ This is a human ascii art that is used in hangman game.
 
 This might look uncool looking directlty at the readme file.
 
- -----------------------------------------------
-|  Please click the raw button for better look  |
- -----------------------------------------------
+ ---------------------------------------------------------
+|  Please click these code or raw button for better look  |
+ ---------------------------------------------------------
 
 
    HANGMAN = (

@@ -1,11 +1,1 @@
-# Hangman-ASCII-Art
-This is a human ascii art that is used in hangman game.
-
-This might look uncool looking directlty at the readme file.
-open readme.md file
- ---------------------------------------------------------
-|  Please click these code or raw button for better look  |
- ---------------------------------------------------------
-
-
 
